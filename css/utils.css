@@ -1,0 +1,48 @@
+.flex{
+    display: flex;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.semibold{
+    font-weight: bolder;
+}
+
+.max-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.my-2{
+    margin: 12px 0px;
+}
+
+.section1{
+    background-color: #f4f0f0;
+}
+
+.search{
+    width: 34vw;
+    padding: 7px 17px;
+    border: .5px solid grey;
+    background-color: #f7f8fd;
+    border-radius: 5px;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
